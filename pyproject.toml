@@ -1,0 +1,15 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "devsarvesh92", email = "sarveshdev92@gmail.com"},
+]
+dependencies = [
+    "opencv-python>=4.7.0.68",
+    "numpy>=1.24.1",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
