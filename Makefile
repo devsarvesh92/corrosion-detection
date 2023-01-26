@@ -1,0 +1,2 @@
+format:
+	@pdm run black .
